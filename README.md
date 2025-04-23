@@ -78,7 +78,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📩 Contact
 
 For support or inquiries, reach out via:
-- **GitHub Issues**: [Submit an issue](https://github.com/yourusername/your-repo/issues)
+- **GitHub Issues**: [Submit an issue](https://github.com/windowsprotweaker/tweaker/issues)
 - **Discord**: Join our community (link coming soon!)
 
 Happy tweaking, and enjoy a faster, smoother Windows experience! 🎮
